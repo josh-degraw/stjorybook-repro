@@ -1,0 +1,30 @@
+{
+  "name": "storybook-repro",
+  "version": "1.0.0",
+  "description": "Storybook example with React Typescript",
+  "scripts": {
+    "start": "storybook dev -p 6006"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-typescript": "^7.21.0",
+    "@storybook/addon-docs": "^7.0.0-beta.53",
+    "@storybook/addon-essentials": "^7.0.0-beta.53",
+    "@storybook/addons": "^7.0.0-beta.53",
+    "@storybook/react": "^7.0.0-beta.53",
+    "@storybook/react-webpack5": "^7.0.0-beta.53",
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "storybook": "^7.0.0-beta.53",
+    "typescript": "^4.9.4"
+  }
+}
